@@ -1,6 +1,6 @@
 ### Hi there 👋🏻
 
-## kim han sol
+##  Frontend Developer kim han sol
     
 <h3>🌖 Skills 🌖</h3>
 <div style="display:flex">
