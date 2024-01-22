@@ -1,8 +1,8 @@
 ### Hi there
 
-<div style="display:flex, justify-content: center">
+## kim han sol
     
-<h3>🚀Skills</h3>
+<h3>🌖 Skills 🌖</h3>
 <div style="display:flex">
     <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="border-radius:3px;"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -19,7 +19,6 @@
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
-</div>
 
 <hr>
 
